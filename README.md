@@ -1,4 +1,4 @@
-# Interprete-funzionale
+# interprete funzionale
 
 ## Progetto finale per l'esame di *Programmazione 2*
 
